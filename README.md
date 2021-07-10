@@ -1,2 +1,2 @@
-# htmlodev1
-kodluyoruz html kurs ödev 1
+# HTML kursu 1. Ödev
+Kodluyoruz HTML Kursu 1. Ödevi
